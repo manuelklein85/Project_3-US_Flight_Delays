@@ -1,5 +1,5 @@
 # Project 3: US Flight Delays (Capstone Project)
-This is the final project created during the Data Science Bootcamp of neuefische Gmbh, Hamburg, Germany. The project is about flight delays in the US. All inner-US flights between 2016 and 2018 have been analyzed in order to identify the main influencing factors for these delays. Moreover, a predictive model has been set up, giving the opportunity to estimate the likelyhood and the amount of delay of any future flight in the US.<br><br>
+This is the final project created during the Data Science Bootcamp of neuefische Gmbh, Hamburg, Germany. The project is about flight delays in the US. All domestic flights between 2016 and 2018 in the US have been analyzed in order to identify the main influencing factors for these delays. Moreover, a predictive model has been set up, giving the opportunity to estimate the likelyhood and the amount of delay of any future flight in the US.<br><br>
 
 <b>This repository contains:</b>
 - Three Jupyter Notebooks:<br><br>
